@@ -1,0 +1,40 @@
+# Ezaz Ansari
+
+> Designer in Bengaluru, 13+ years in design and front-end. Currently leading Visual Experience at Swiggy across Food, Dineout, Snacc, and Toing.
+
+## About
+
+I'm a designer who's spent more than a decade bridging the gap between "it works" and "it actually looks good."
+
+Currently, I am leading Visual Experience at Swiggy in Bengaluru, where I focus on the interaction and storytelling of the consumer experience. My job is to make sure everything flows seamlessly from the things you see to the things you feel, turning every app visit into a delightful experience.
+
+Before this, I led design at WeWork India and wrote code for The Glitch. When the logic brain takes a break, I'm usually drawing cats, credit-maxxing on Claude, or 3D-printing a small army of toy characters.
+
+## Experience
+
+- 2022 — present: Lead Visual Experience Design II at Swiggy, working across Food, Dineout, Snacc, and Toing
+- 2021 — 2022: Independent — creative consultant, freelance designer
+- 2017 — 2021: Design Manager at WeWork India
+- 2014 — 2017: Senior Front-end Developer at Penguin Thoughts
+- 2013 — 2014: Senior Front-end Developer at The Glitch — Awwwards Honorable Mention for the studio site
+- 2010 — 2013: BSc, Information Technology — University of Mumbai
+
+## Skills and focus
+
+- Visual experience and interaction design
+- Motion design and animation runtimes (helped roll out Rive across Swiggy)
+- Brand identity (Snacc, Toing — Gen Z–first identities)
+- Front-end development (HTML, CSS, JavaScript)
+- Design systems
+
+## Contact
+
+- Email: undefinedtoken@gmail.com
+- LinkedIn: https://www.linkedin.com/in/undefinedtoken/
+- Twitter / X: https://x.com/meshedonions
+- Site: https://undefinedtoken.com/
+- Location: Bengaluru, Karnataka, India
+
+## About this site
+
+Single-page personal site, hand-coded in HTML / CSS / JS. Type set in Departure Mono. Features a real-time multiplayer drawing canvas with country-flag colors per visitor — open the page in two browser tabs to see other visitors' cursors and strokes live, powered by Liveblocks.
