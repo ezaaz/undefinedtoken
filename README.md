@@ -56,5 +56,3 @@ vercel --prod
 ## Credits
 
 Type by [Helena Zhang & Tobias Fried](https://github.com/rektdeckard/departure-mono).
-
-Inspired by [neal.fun/cursor-camp](https://neal.fun/cursor-camp/) for the per-visitor flag idea, and by [chenglou/pretext](https://github.com/chenglou/pretext) for thinking about text shapes.
