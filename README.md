@@ -1,6 +1,6 @@
 # undefinedtoken.com
 
-Personal site for **Ezaz Ansari** — designer in Bengaluru, currently leading Visual Experience at Swiggy.
+Personal site for **Ezaz Ansari** — designer in Bengaluru, currently Principal Product Designer at Upstox.
 
 Live at: [undefinedtoken.com](https://undefinedtoken.com/)
 
@@ -9,8 +9,7 @@ Live at: [undefinedtoken.com](https://undefinedtoken.com/)
 Single static HTML file. No build step, no framework.
 
 - Type set in [Departure Mono](https://departuremono.com/) by Helena Zhang & Tobias Fried.
-- Real-time multiplayer drawing canvas powered by [Liveblocks](https://liveblocks.io/).
-- Country flag detection via [ipapi.co](https://ipapi.co/).
+- Drawing canvas on the page (local only, nothing is sent anywhere).
 - Full-page snapshot export via [html2canvas](https://html2canvas.hertzen.com/).
 
 ## Files
@@ -46,8 +45,7 @@ vercel --prod
 
 ## Features
 
-- Live multiplayer drawing — open in two tabs, scribble in one, see the other
-- Per-visitor crayon color derived from the visitor's country flag
+- Draw on the page with a crayon cursor
 - Subtle cursor trail follows the mouse even outside draw mode
 - Avatar tilts with scroll velocity
 - Konami code (↑↑↓↓←→←→BA) for chaos mode
